@@ -30,13 +30,14 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013May/0010.html
 **Call for hosts**
 
 ## August 2013
-### Date: Not sent yet (Target: 8/20)
+### Date: Not sent yet (Target: 8/23)
 
 **Upcoming TestTWF Events**
 
 **Past Events**
 * Recording of HTML5 Sacto meetup (scheduled for 8/6)
 * TechLive recording (scheduled for 8/8)
+* Shanghai (8/17-18)
 
 **Test Resource Center (Rollout date??)**
 
