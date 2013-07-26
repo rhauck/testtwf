@@ -11,7 +11,7 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013May/0010.html
 * TestTWF Tokyo
 
 ## July 2013 
-### Date: Not sent yet (Target: 7/25)
+### Date: Target: 7/29
 
 **Upcoming TestTWF Events**
 * Shanghai registration open
@@ -30,7 +30,7 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013May/0010.html
 **Call for hosts**
 
 ## August 2013
-### Date: Not sent yet (Target: 8/20)
+### Date: Target: 8/26
 
 **Upcoming TestTWF Events**
 
@@ -43,7 +43,7 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013May/0010.html
 **Call for hosts**
 
 ## September 2013
-### Date: Not sent yet (Target: 9/24)
+### Date: Target: 9/30
 
 **Upcoming TestTWF Events**
 * HTML5DevConf
