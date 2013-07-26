@@ -37,6 +37,7 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013May/0010.html
 **Past Events**
 * Recording of HTML5 Sacto meetup (scheduled for 8/6)
 * TechLive recording (scheduled for 8/8)
+* Shanghai (8/17-18)
 
 **Test Resource Center (Rollout date??)**
 
