@@ -12,6 +12,7 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013May/0010.html
 
 ## July 2013 
 ### Date: Target: 7/29
+http://lists.w3.org/Archives/Public/public-testtwf/2013Jul/0000.html
 
 **Upcoming TestTWF Events**
 * Shanghai registration open
@@ -33,16 +34,23 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013May/0010.html
 ### Date: Target: 8/26
 
 **Upcoming TestTWF Events**
+* Planning for TestTWF Shenzhen kicked off 
+   * Introduce the new testtwf-planning list
+   * Call for experts/areas of focus
 
 **Past Events**
-* Recording of HTML5 Sacto meetup (scheduled for 8/6)
 * TechLive recording (scheduled for 8/8)
 * Shanghai (8/17-18)
 
-**Test Resource Center (Rollout date??)**
+** Test the Web Forward Site Relaunch **
+   * Short summary + point to Tobie's blog
 
 **Call for hosts**
-
+   * Introduce the full event kit (reference last month)
+   * Interested in hosting a TestTWF meetup? Contact Susan Parini (ask if that's ok)
+   * Remind that they can use the testtwf-planning list for this as well
+   * Maybe call out to DC area specifically?
+   
 ## September 2013
 ### Date: Target: 9/30
 
