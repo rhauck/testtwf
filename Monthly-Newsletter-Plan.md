@@ -42,7 +42,7 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013Jul/0000.html
 * TechLive recording (scheduled for 8/8)
 * Shanghai (8/17-18)
 
-** Test the Web Forward Site Relaunch **
+**Test the Web Forward Site Relaunch**
    * Short summary + point to Tobie's blog
 
 **Call for hosts**
