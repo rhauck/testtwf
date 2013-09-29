@@ -65,20 +65,24 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013Aug/0000.html
     - Registration open for TPAC registrants (regular reg opening on 10/7)
 
 **Past Events**
+    
     * HTML5J Tokyo - TestTWF Meetup
+    
     * Sacracmento HTML5 Meetup - TestTWF & Webplatform.org
 
 **New and improved testthewebforward.org**
+    
     * Documentation!
     * Blog
     * Events
     * Contributions welcome
 
 **Get Involved**
+    
     * Contribute
-        * Docs
-        * Website
+        - Docs
+        - Website
     * Host your own!
 
-** Quotes of the Month
+**Quotes of the Month** 
 
