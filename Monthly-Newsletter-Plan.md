@@ -31,7 +31,8 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013Jul/0000.html
 **Call for hosts**
 
 ## August 2013
-### Date: Target: 8/26
+### Date: Target: 8/29
+http://lists.w3.org/Archives/Public/public-testtwf/2013Aug/0000.html
 
 **Upcoming TestTWF Events**
 * Planning for TestTWF Shenzhen kicked off 
@@ -54,14 +55,30 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013Jul/0000.html
 ## September 2013
 ### Date: Target: 9/30
 
+**Welcome New Subcribers**
+
 **Upcoming TestTWF Events**
+
 * HTML5DevConf
-* Call for experts/areas of test focus for Shenzhen
+
+* Shenzhen
+    - Registration open for TPAC registrants (regular reg opening on 10/7)
 
 **Past Events**
+    * HTML5J Tokyo - TestTWF Meetup
+    * Sacracmento HTML5 Meetup - TestTWF & Webplatform.org
 
-**Test Resource Center (update?)**
+**New and improved testthewebforward.org**
+    * Documentation!
+    * Blog
+    * Events
+    * Contributions welcome
 
-**CSS test repo migration (if ready??)**
+**Get Involved**
+    * Contribute
+        * Docs
+        * Website
+    * Host your own!
 
-**Call for hosts**
+** Quotes of the Month
+
