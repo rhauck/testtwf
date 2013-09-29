@@ -66,23 +66,23 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013Aug/0000.html
 
 **Past Events**
     
-    * HTML5J Tokyo - TestTWF Meetup
+* HTML5J Tokyo - TestTWF Meetup
     
-    * Sacracmento HTML5 Meetup - TestTWF & Webplatform.org
+* Sacracmento HTML5 Meetup - TestTWF & Webplatform.org
 
 **New and improved testthewebforward.org**
     
-    * Documentation!
-    * Blog
-    * Events
-    * Contributions welcome
+* Documentation!
+* Blog
+* Events
+* Contributions welcome
 
 **Get Involved**
     
-    * Contribute
-        - Docs
-        - Website
-    * Host your own!
+* Contribute
+    - Docs
+    - Website
+* Host your own!
 
 **Quotes of the Month** 
 
