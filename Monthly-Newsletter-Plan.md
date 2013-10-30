@@ -54,6 +54,7 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013Aug/0000.html
    
 ## September 2013
 ### Date: Target: 9/30
+http://lists.w3.org/Archives/Public/public-testtwf/2013Sep/0006.html
 
 **Welcome New Subcribers**
 
@@ -85,4 +86,36 @@ http://lists.w3.org/Archives/Public/public-testtwf/2013Aug/0000.html
 * Host your own!
 
 **Quotes of the Month** 
+
+
+## October 2013
+### Date: Target: 10/31
+
+**Welcome New Subcribers**
+(from HTML5 DevConf)
+
+**Upcoming TestTWF Events**
+
+* Shenzhen
+    - Huge list of experts
+    - Impressive speaker lineup, including TBL
+    - remote participation
+
+Timezone table:
+
+
+** TestTWF now part of the W3C **
+    
+* Solicit contributions 
+    - point to issue tracker
+    - blog posts
+
+**Get Involved**
+    
+* Contribute
+    - Docs
+    - Website
+* Host your own!
+
+**Quotes of the Month**
 
